@@ -1,0 +1,1006 @@
+das	Abitur	school exam
+das	Alter	age
+das	Amt	office, bureau
+das	Angebot	bid, offer
+das	Aquarium	aquarium
+das	Asyl	asylum
+das	Auge	eye
+das	Ausland	overseas
+das	Aussehen	appearance
+das	Autohaus	car dealership
+das	Bargeld	cash money
+das	Beet	bed, patch of flowers
+das	Bein	leg
+das	Bekenntnis	confession
+das	Bekleidungsgeschäft	clothing store
+das	Besteck	cutlery, silverware
+das	Bier	beer
+das	Bild	photo
+das	Blatt	leaf
+das	Blut	blood
+das	Blütenblatt	flower petal
+das	Bonbon	candy, treat
+das	Brett	cutting board
+das	Brät	meat
+das	Brötchen	small bread roll
+das	Bund	a bundle
+das	Bußgeld	fine, penalty
+das	Bügeleisen	noun
+das	Chaos	chaos. Disorder
+das	Croissant	croissant
+das	Datum	date
+das	Denken	thought, thoughts
+das	Dirndl	traditional bavarian women´s dress
+das	Doppelbett	double bed
+das	Doppelzimmer	double room
+das	Dorf	village
+das	Dreieck	triangle
+das	Dunkel	darkness
+das	Einzelzimmer	one bedroom hotel
+das	Eis	ice, ice cream
+das	Elektrogeschäft	electronics store
+das	Erdbeben	earthquake
+das	Etui	small case
+das	Fahrzeug	vehicle
+das	Fasten	a fast
+das	Feld	field
+das	Fenster	window
+das	Fernweh	wander lust
+das	Festgewand	festive garment
+das	Fett	fat
+das	Fieber	fever
+das	Formular	form
+das	Fresko	fresco
+das	Fundament	foundation
+das	Gammelfleisch	rotten meat, roadkill
+das	Garagentor	garage door
+das	Gebirge	the mountains, mountain range
+das	Gebot	command, commandments
+das	Gefieder	feathers, plumage
+das	Geflügel	poultry
+das	Gefolge	entourage
+das	Gefühl	a feeling, feelings
+das	Gegenteil	opposite
+das	Geheimnis	mystery
+das	Gelächter	laughter
+das	Gemüse	vegetables
+das	Gepäck	hand luggage
+das	Gericht	meal, court of justice
+das	Geschenk	gift
+das	Geschirr	dishes
+das	Geschrei	clamour
+das	Gesetz	law, statute
+das	Gesicht	face
+das	Gesäß	bottom, seat, posterior
+das	Getreide	grain, cereals
+das	Getöse	roar
+das	Getümmel	ruckus
+das	Gewicht	weight
+das	Glas	glass
+das	Glück	luck
+das	Gold	gold
+das	Grundstück	piece of land, real estate, lot
+das	Haar	hair
+das	Hackfleisch	piece of meat for slicing
+das	Hammerwerfen	hammer throwing
+das	Handgelenk	wrist
+das	Handgepäck	hand luggage
+das	Heimweh	homesickness
+das	Hemd	shirt
+das	Hochhaus	apartment building
+das	Holz	wood
+das	Hähnchen	chicken
+das	Hörnchen	croissant
+das	Ideal	ideal, ideals
+das	Idol	idol
+das	Interesse	interest
+das	Interrogativpronomen	interrogative pronoun
+das	Jahr	year
+das	Joch	yoke
+das	Kalb	calf
+das	Kalbsflesich	calf meat
+das	Kaninchen	rabbit, small domesticated
+das	Kapitel	chapter
+das	Kaufhaus	department store
+das	Kilo	kilo
+das	Kinn	chin
+das	Kissen	cushion, pillow
+das	Klavier	piano
+das	Kleingeld	small change
+das	Knie	knee
+das	Koffein	caffeine
+das	Konzert	concert
+das	Kotelett	cutlet
+das	Kraut	plant
+das	Kugelstoßen	shot put (sport)
+das	Känguru	kangaroo
+das	Kännchen	pot, kettle
+das	Lammfleisch	lamb meat
+das	Land	land, country, nation
+das	Leben	life
+das	Lied	song
+das	Lied	song, songs
+das	Lob	praise
+das	Maul	mouth, jaws (for animal)
+das	Medikament	medication
+das	Meer	sea
+das	Messer	knife
+das	Metermaß	ruler, measuring tape
+das	Mikrofon	microphone
+das	Missverständnis	misunderstanding
+das	Mitleid	compassion
+das	Mäppchen	small pencil case
+das	Möbelhaus	furniture store
+das	Müsli	grain cereal, cereal grains
+das	Nasenloch	nostrils
+das	Nest	nest
+das	Netz	net, the internet
+das	Obst	fruit
+das	Ohr	ear
+das	Paar	a pair of something
+das	Paket	parcel (in the mail)
+das	Paradies	paradise
+das	Pech	pitch
+das	Pflaster	plaster, poultice
+das	Pfund	 grams, . Kilo
+das	Picknick	picnic
+das	Plätzchen	biscuit
+das	Polen	poland
+das	Püree	puree, i.e. Kartoffelpüree - mashed potatoes
+das	Quadrat	square
+das	Rankengewächs	creeping plant
+das	Rechteck	rectangle
+das	Regal	bookshelves
+das	Reihenhaus	terraced house, row house
+das	Reisebüro	travel agent
+das	Restaurant	restaurant
+das	Rezept	prescription
+das	Rhabarber	rhubarb
+das	Rindfleisch	beef
+das	Rohr	pipe - water pipe, etc.
+das	Rätsel	riddle, puzzle
+das	Salz	salt
+das	Scheitern	collapse
+das	Schifferklavier	accordion
+das	Schloss	lock, castle
+das	Schmuckgeschäft	jewelry store
+das	Schnitzel	pork cutlett
+das	Schreibwarengeschäft	stationery store
+das	Schwein	pig, hog
+das	Schweinefleisch	pork meat
+das	Schwimmbad	swimming pool
+das	Seil	rope, line, climbing line
+das	Sekretariat	office
+das	Shampoo	shampoo
+das	Silber	silver
+das	Sofa	sofa, couch
+das	Sonderangebot	special offer
+das	Speerwerfen	spear throwing
+das	Spiegelei	fried egg
+das	Spielzeug	playtoy
+das	Ständchen	seranade
+das	Stück	piece
+das	Talent	talent, capacity, bib. - measure of weight
+das	Telefon	telephone
+das	Teppichgeschäft	carpet store
+das	Thema	theme, topic
+das	Thermometer	thermometer
+das	Ticket	ticket
+das	Tor	door, sport - goal
+das	Treffe	meeting
+das	Triebwerk	engine, power plant
+das	Trinkgeld	a tip
+das	Tuch	cloth, kerchief
+das	Turnen	gymnastics
+das	Turnier	tournament, show
+das	Ufer	bank of river, shoreline
+das	Ungeheuer	monster, monstrosities
+das	Unkraut	weed
+das	Unrecht	injustice
+das	Verbrechen	crime
+das	Vergehen	offense
+das	Verhältnis	relationship, affair
+das	Verkehrsmittel	transportation
+das	Verschwinden	disappearance
+das	Vertrauen	trust
+das	Video	video
+das	Vieh	cattle
+das	Viertel	quarter
+das	Volk	people, nation
+das	Vortschritt	progress
+das	Wachstum	growth
+das	Wasser	water
+das	Wechselgeld	change
+das	Werkzeug	work tools
+das	Wesen	being, nature
+das	Wissen	knowledge
+das	Wunder	wonder , marvel
+das	Wurzelverzeichnis	root directory
+das	Zentrum	center
+das	Zimmer	room
+das	Zollkontrolle	customs in airport
+das	Öl	oil
+der	ABA	answering machine
+der	Abflug	departure
+der	Abriss	demolition
+der	Abschied	goodbye, farewell
+der	Abstand	distance
+der	Acker	field
+der	Affe	monkey
+der	Aktenkoffer	attache case
+der	Aktenordner	file, file cabinet, etc.
+der	Allgemeinarzt	general practice doctor
+der	Anblick	sight, a look
+der	Anfang	the beginning
+der	Angriff	attack, raid
+der	Anlass	motive, cause
+der	Anruf	phone call
+der	Anästhesist	anathesiologist
+der	Anschluss	connection, (water) supply
+der	Anspruch	claim (ins.)
+der	Anwohner	resident
+der	Apfel	apple
+der	Apparat	apparatus, Gadget, Machine
+der	Arm	arm
+der	Ast	branch of a tree
+der	Asylant	asylum seeker
+der	Ausflug	outing, field trip
+der	Auswander	emigrant
+der	Ausweis	ID
+der	Badeanzug	bathing suit
+der	Bahnhof	train station
+der	Balkon	balcony
+der	Ball	ball
+der	Barren	the parallel bars
+der	Bart	beard
+der	Bastler	craftsman, do it yourselfer
+der	Bauch	stomach
+der	Baum	tree
+der	Becher	beaker, plastic cup
+der	Beginn	beginning, start
+der	Beruf	occupation, career
+der	Besitz	resources, assets
+der	Beweis	proof
+der	Bezwinger	conqueror
+der	Blitz	lightning, flash
+der	Blumenkohl	cauliflower
+der	Blumenladen	flower shop
+der	Blumenstrauß	bunch of flowers
+der	Boden	ground, dirt
+der	Brei	mash, puree
+der	Briefkasten	mailbox
+der	Bruder	brother
+der	Buckel	hunchback
+der	Buddhismus	buddhism
+der	Bush	bush (strauch)
+der	Chef	boss
+der	Chinese	chinese (people)
+der	Chirurg	surgeon
+der	Christ	Christian
+der	Computer	computer
+der	Dachboden	attic
+der	Dampf	steam, vapor
+der	Detektiv	detective
+der	Dieb	thief
+der	Dirigent	conductor
+der	Dirigentenstab	conductors baton
+der	Dom	cathedral
+der	Dorn	thorn
+der	Drache	dragon
+der	Drachen	a kite, a glider
+der	Dualismus	dualism
+der	Dung	dung, manure
+der	Dünger	fertilizer
+der	Düsenantrieb	jet propulsion
+der	Düsenjäger	fighter jet
+der	Edelstein	precious stone
+der	Einkaufszettel	shopping list
+der	Einwander	immigrant
+der	Eiskunstlauf	figure skating
+der	Ellbogen	lbow
+der	Eltern	parents
+der	Esel	donkey
+der	Faden	thread
+der	Fahrradabstellplatz	bicycle parking place
+der	Fallschirm	parachute
+der	Familienstand	family status
+der	Fehler	mistake
+der	Feind	enemy
+der	Feldrand	edge of a field
+der	Finger	finger
+der	Fingerabdruck	fingerprint
+der	Fingerhut	thimble
+der	Fingernagel	fingernail
+der	Fisch	fish
+der	Flaschenöffner	bottle opener
+der	Fleck	spot
+der	Flug	flight
+der	Flugbegleiter	flight attendants
+der	Flughafen	airport
+der	Flur	hallway in a house
+der	Fluss	river
+der	Fön	hairdryer
+der	Freimut	frankness
+der	Frevel	iniquity, outrage
+der	Frühaufsteher	early riser, hard working person
+der	Fuchs	fox
+der	Führerschein	driver´s license
+der	Fürst	prince
+die	Fürstin	princess
+der	Fuß	foot
+der	Fußgänger	pedestrian
+der	Gammel	rubbish
+der	Gang	walkway, corridor
+der	Garten	garden
+der	Gast	guest
+der	Gebrauch	use
+der	Geburtstag	birthday
+der	Gehsteig	sidewalk
+der	Geruch	smell, odor
+der	Geschäftsführer	store manager
+der	Gestank	stench
+der	Getränkemarkt	party store, beer - wine store
+der	Gott	God, gods
+der	Grund	the reason, the matter
+der	Grundsatz	principle
+der	Gürtel	belt
+der	Haarschnitt	haircut
+der	Hacken	hooks
+der	Hafen	harbor
+der	Hafer	oat
+der	Hals	neck
+der	Halz-Nasen-Ohrenartz	ear, nose and throat doctor
+der	Hammer	hammer
+der	Hase	hare, undomesticated rabbit
+der	Hass	hate, hatred
+der	Haushalt	household
+der	Heilend	savior
+der	Heilige	saint
+der	Held	hero
+die	Heldin	heroin
+der	Herd	whole stove, oven and top
+der	Himmel	heaven
+der	Hinduismus	hinduism
+der	Hochzeitstage	wedding day
+der	Hof	yard, courtyard
+der	Honig	honey
+der	Horizont	horizon
+der	Huf	hoof
+der	Husten	cough
+der	Hustensaft	cough syrup
+der	Hüter	guardian
+der	Internist	internalist
+der	Internspeicher	computer memory
+der	Kachelboden	tile floor
+der	Käfig	birdcage
+der	Kalender 	calender
+der	Kamm	comb
+der	Käse	cheese
+der	Kasperl	puppet
+der	Kassenzettel	receipt
+der	Kater	tomcat
+der	Keks	cookies
+der	Kellner	waiter
+die	Kellnerin	waitress
+der	Klee	clover
+der	Kleiderbügel	coat hanger
+der	Klub	club, civic group
+der	Knoblauch	garlic
+der	Knöchel	ankle
+der	Koffer	suitcase
+der	Kohl	cabbage
+der	Kontrast	contrast
+der	Kontrolleur	inspector
+der	Kopf	head
+der	Kopfsalat	head lettuce
+der	Korb	basket
+der	Korken	cork
+der	Korkenzieher	corkscrew
+der	Körper	body
+der	Krankenpfleger	nurse, male or female
+der	Kratzer	scratch
+der	Kreis	circle
+der	Kuchen	cake
+der	Kugelschreiber	ink pen
+der	Kühlschrank	refrigerator
+der	Kunde	customer
+der	Kundenservice	customer service department
+der	Kürbis	pumpkins
+der	Kuss	kiss
+der	Laden	shop
+der	Langschläfer	late sleeper, lazy person
+der	Laptop	laptop computer
+der	Lärm	noise
+der	Lauch	leek
+der	Leerlauf	idle
+der	Legastheniker	dyslexic
+der	Leiter	leader
+der	Liebling	loved one
+der	Lockenwickler	hair curlers
+der	Löffel	spoon
+der	Löwe	lion
+der	Mais	corn
+der	Maiskolben	corncob
+der	Maurer	bricklayer
+der	Mediabericht	media report
+der	Meeresblick	seaside view
+der	Mensch	humans
+der	Mond	the moon
+der	Mord	murder
+der	Morgenmantel	housecoat
+der	Mulleimer	trash bin
+der	Mund	mouth
+der	Musiker	musician
+der	Muskel	muscle
+der	Mut	courage, pluck
+der	Nabel	navel
+der	Nachbar	neighbor
+der	Nachteil	disadvantage
+der	Name	name
+der	Nebel	fog, mist
+der	Nord, Süd, Ost, West	North, South, East and West
+der	Notausgang	emergency exit
+der	Nu	no time
+der	Nudelsalat	pasta salad
+der	Oberkörper	upper body
+der	Oberschenkel	thigh
+der	Ochse	ox
+der	Ofen	oven
+der	Ort	place
+der	Orthopäde	orthopedist
+der	Pantoffelheld	hen pecked husband, i.e. Slipper bound
+der	Papagei	parrot
+der	Paprika	bell peppers
+der	Park	park
+der	Partner	partner
+der	Pass	passport
+der	Pfeffer	pepper
+der	Pfirsich	peach
+der	Pilz	mushroom
+der	Pinsel	brush
+der	Plünderer	raider, plunderer
+der	Psychiater	psychiatrist
+der	Pullover	a sweater
+der	Quark	sour cream
+der	Rabe	raven
+der	Rahmen	frame
+der	Rand	edge
+der	Rat	advice
+der	Raum	space, room
+der	Rechtsstreit	legal dispute
+der	Regenschirm	umbrella
+der	Respekt	respect
+der	Rest	the rest
+der	Retter	saviour
+der	Rettich	radish
+der	Rhythmus	rhythm
+der	Riese	giant
+der	Ring	ring
+der	Ritter	knight
+der	Rock	skirt
+der	Roller	scooter
+der	Rücken	the back, spine
+der	Ruhm	glory
+der	Rumpf	body core, trunk
+der	Sack	sack
+der	Saft	juice
+der	Salat	lettuce
+der	Sand	sand
+der	Sandstrand	sandy beach
+der	Schäferhund	german shepherd
+der	Schal	scarf, shawl
+der	Schalter	counter, switch
+der	Schatz	treasure, sweetheart
+der	Schein	paper money, bill
+der	Schimpf	insult, affront
+der	Schinken	ham
+der	Schirm	shield, screen
+der	Schlitten	sled, sledge
+der	Schlitz	slot, slit
+der	Schluck	of liquid, a drink, a swallow, a drop
+der	Schlüssel	key
+der	Schmeichler	flatterer
+der	Schmerz	pain
+der	Schmetterling	butterfly
+der	Schmuck	jewelry
+der	Schnabel	beak
+der	Schnupften	a cold
+der	Schönheitschirurg	plastic surgeon
+der	Schrank	cupboard, wardrobe
+der	Schrei	scream
+der	Schwager	brother in law
+die	Schwägerin	sister in law
+der	Schwan	swan
+der	Schwerpunkt	center of gravity
+der	Seite	side, page
+der	Senf	mustard
+der	Sessel	armchair
+der	Seufzer	sigh
+der	Sklave	slave
+der	Sohn	son, sons
+der	Spinat	spinach
+der	Spitzer	pencil sharpener
+der	Sprecher	speaker
+der	Staat	state, country
+der	Stab	stick, pole
+der	Stabhochsprung	pole vaulting
+der	Stadtplan	city plan, map
+der	Stadtteil	city district
+der	Stamm	tree trunk, tribe, clan
+der	Stand	stand, counter
+der	Stapel	pile, stack
+der	Stau	traffic jam
+der	Stern	stars
+der	Steward	airline steward
+der	Stich	stitch
+der	Stiefel	boot
+der	Stier	A steer, a bull
+der	Stift	pen, pin, peg
+der	Stock	cane
+der	Stoff	fabric, material
+der	Stolz	pride
+der	Stoß	push, shove, punch
+der	Strafzettel	parking ticket, etc.
+der	Strand	beach
+der	Straßenrand	roadside
+der	Strauch	shrubbery
+der	Strauss	ostrich
+der	Streifschar	raiding party
+der	Streit	argument, quarrel, dispute
+der	Strom	river
+der	Sünder	sinner
+der	Supermarkt	supermarket
+der	Suppenteller	soup bowl
+der	Synthesizer	synthesizer
+der	Tagtraum	daydream
+der	Takt	music - bar, time
+der	Taschenrechner	calculator
+der	Teddybär	teddy bear
+der	Tee	tea
+der	Teich	pond
+der	Teller	plate
+der	Teppich	carpeting, flooring
+der	Termin	official appointment
+der	Tintenfisch	inkfish - i.e. Squid, octopus, etc.
+der	Tisch	table
+der	Tod	death
+der	Topf	pot
+der	Torhüter	goalie
+der	Trainer	trainer
+der	Traumurlaub	dream vacation
+der	Trauzeuge	witness at a marriage ceremony
+der	Tresor	a safe, lockbox, etc.
+der	Tropfen	drops
+der	Trubel	turbulence
+der	Tumor	tumor, growth
+der	Turm	tower
+der	Übersetzer	translator
+der	Umzug	parade, relocation, move
+der	Unfall	accident, wreck
+der	Unterkörper	lower body
+der	Unterricht	class, lesson, instructions
+der	Unterschied	difference, variation
+der	Verein	official club, organization
+der	Verkäufer	shopkeeper
+der	Verlust	loss
+der	Verräter	traitor
+der	Vers	verse
+der	Verstärker	amplifier
+der	Vertrieb	sales
+der	Videorekorder 	videorecorder
+der	Vorhang	curtains
+der	Vormittag	the morning
+der	Vorschlag	proposal, suggestion
+der	Vorstand	the board (of directors)
+der	Vorstandsvorsitzende	corporate president, head of the board
+der	Vorteil	advantage
+der	Wagen	car, truck, etc.
+der	Wald	forest
+der	Wart	attendant
+der	Wäscheständer 	clothes drying rack
+der	Wasserhahn	faucet
+der	Wecker	alarm clock
+der	Weg	path
+der	Wein	wine
+der	Weinkeller	wine cellar
+der	Weizen	wheat
+der	Weltraum	the universe
+der	Wert	worth, value
+der	Wettbewerb	competition
+der	Wetter	better
+der	Wettlauf	race
+der	Whirlpool	whirlpool, jacuzzi
+der	Winkel	angle
+der	Wirbel	whirl, whirlpool (im Fluß etc.)
+der	Witz	joke, wit.
+der	Wunsch	wish
+der	Zahn	tooth, teeth
+der	Zahnstocher	toothpick
+der	Zauber	magic
+der	Zaun	fence
+der	Zeigefinger	pointing finger, index finger
+der	Zerstörer	the destroyer
+der	Zipfel	corner, point
+der	Zoll	tax, fee, toll, customs duty
+der	Zoo	zoo
+der	Zucker	sugar
+der	Zweig	twig
+die	Abhängigkeit	addiction, dependence
+die	Abteilung	department
+die	Abwicklung	liquidation, phaseout
+die	Ader	artery
+die	Ahnung	suspicion, hunch
+die	Alge	algae
+die	Ampel	stop light
+die	Anbetung	worship, adoration
+die	Anfangsgründe	elements (wie in chemie)
+die	Angst	axiety
+die	Anhöhe	bank, hill
+die	Anklage	charge, - legal
+die	Ankunft	arrival
+die	Apfelsine	orange, orange tree
+die	Apotheke	chemist, drug store
+die	Aprikose	apricot
+die	Armlehne	armrest
+die	Art	kind, sort, type
+die	Atmung	respiration, breathing
+die	Auflage	edition, imprint
+die	Augenbraue	eyebrows
+die	Ausnahme	exception
+die	Autobahn	autobahn, freeway
+die	Backspacetaste	backspace key
+die	Backware	baked goods
+die	Badesachen	bathing things
+die	Badewanne	bathtub
+die	Banane	banana
+die	Bank	bench
+die	Bank	bank
+die	Barmherzigkeit	mercy
+die	Beere	berry
+die	Begeisterung	enthusiasm
+die	Bekannte	acquaintance
+die	Besatzung	crew (ins Gesamt)
+die	Besichtigung	sight seeing tour
+die	Besprechung	discussion
+die	Bezirksstadt	district capital
+die	Birne	pear
+die	Bohne	beans
+die	Bohrmaschine	drill
+die	Bordkarte	bording card
+die	Boutique	boutique
+die	Bremse	brake
+die	Brezel	 pretzel
+die	Brücke	bridge
+die	Brust	chest, breasts
+die	Buchhaltung	finance office
+die	Buchhandlung	bookstore
+die	Bushaltestelle	bus stop
+die	Butter	butter
+die	Decke	ceiling, bed cover
+die	Digitalkamera	digital camera
+die	Ding	thing
+die	Disko(thek)	dance club
+die	Dose	tin of something
+die	Dreiheit	trinity
+die	Droge	drugs
+die	Drogerie	chemist, apotheke, drugstore
+die	Dunkelheit	darkness
+die	Durchwahl	telephone extension
+die	Ecke	corner
+die	Ehre	honor
+die	Eifersucht	jealousy
+die	Einkünfte	earnings
+die	Einsamkeit	loneliness
+die	Empfindlichkeit	sensitivity
+die	Erbse	pea
+die	Erde	earth
+die	Erhebung	rise, ascension to power
+die	Erkältung	cold, cough
+die	Ermutigung	encouragement
+die	Ernährung	nutrition
+die	Errettung	salvation
+die	Erschöpfung	exhaustion, fatigue
+die	Erwachsene	adult, grown up
+die	Fachkraft	skilled workers, professional workers
+die	Fahrkarte	train ticket, bus ticket, etc.
+die	Farbenpalette	painters palette
+die	Feile	file
+die	Fensterbank	window sill
+die	Ferien	holidays
+die	Fernbedienung	TV remote
+die	Ferse	heel
+die	Festplatte	computer hard drive
+die	Fischsemmel	fish bread, fish sandwich
+die	Flotte	fleet, armada
+die	Flucht	escape, getaway
+die	Fluggesellschaft	airline
+die	Flut	flood
+die	Form	form
+die	Fotokopie	photocopy
+die	Frage	question
+die	Freizügigkeit	liberality, permissiveness
+die	Freude	joy
+die	Frucht	fruit
+die	Frucht	fruit
+die	Fußgängerzone	pedestrianized zone
+die	Gabel	fork
+die	Gans	goose
+die	Garantie	guarantee
+die	Garderobe	wardrobe
+die	Gardine	drapes, curtains
+die	Gebrauchsanweisung	instruction manual
+die	Gefühllosigkeit	callousness, insensitivity
+die	Geige	violin
+die	Gelegenheit	opportunity
+die	Gerste	barley
+die	Geschichte	history, story
+die	Geschwister	brothers and sisters
+die	Geselligkeit	sociability
+die	Glühlampe	light bulb
+die	Gottheit	deity, Godhead
+die	Grippe	flu, sickness
+die	Größe	size, format
+die	Grube	 pit, ditch
+die	Gurgel	throat
+die	Gurke	cucumber
+die	Gymnastik	exercises
+die	Halbpension	half board
+die	Vollpension	full board
+die	Hand	hand
+die	Harke	rake
+die	Hauptspeise	main meal
+die	Hausschuhe	house shoes, slippers
+die	Haut	skin
+die	Heiligamesse	holy mass, church service
+die	Heimat	home
+die	Heizung	heating
+die	Hochzeit	wedding
+die	Höhe	height
+die	Honigmelone	honeydew melon
+die	Hurerei	prostitution
+die	Informationswirtschaft	information economy
+die	Insel	island
+die	Jacke	jacket
+die	Jalousie	window blinds
+die	Kachel	tile
+die	Kälte	the cold, i.e. cold weather
+die	Kanone	cannon
+die	Karotte	carrot
+die	Kartoffel	potato
+die	Kelter	winepress
+die	Kerze	candle
+die	Kette	chain
+die	Kirsche	cherry
+die	Kiste	wine case
+die	Klappe	flap, fig. trap, mouth
+die	Kneipe	pub
+die	Knoblauchzehe	garlic clove
+die	Kokonuss	coconut
+die	Kombination	combination
+die	Konferenz	conference
+die	Konfession	denomination
+die	Kosten	costs
+die	Krabbe	shrimp
+die	Krankmeldung	doctor's excuse
+die	Krawatte	necktie
+die	Kreide	chalk
+die	Kreuzung	intersection
+die	Kriminalität	crime rate
+die	Kugel	ball
+die	Kühltasche	cooler, cold bag
+die	Kühnheit	boldness
+der	Cousin	cousin
+die	Lampe	lamp, light
+die	Lanze	lance
+die	Lebenshaltung	cost of living
+die	Lebensphilosophie	life philosophy
+die	Leichtathletik	track and field
+die	Leiter	ladder
+die	Leitung	leading, routing
+die	Limonade	limonade
+die	Lippe	lips
+die	List	cunning, deceit
+die	Lücke	gap, hole
+die	Lust	desire, pleasure, joy
+die	Mahlzeit	mealtime
+die	Mannschaft	sports team
+die	Marketingabteilung	the marketing department
+die	Marmelade	jam
+die	Maschine	airplane, machine
+die	Mauer	wall
+die	Medizin	medicine
+die	Meeresfrüchte	seafood
+die	Meile	mile
+die	Meinung	view, opinion
+die	Metzgerei	butcher shop
+die	Milch	milk
+die	Mitternacht	midnight
+die	Möhre	carrot
+die	Möwe	seagull
+die	Mühe	trouble, pains
+die	Münze	cap
+die	Nachspeise	dessert
+die	Nacht	night
+die	Nadel	needle
+die	Nähe	proximity
+die	Nase	nose
+die	Neffe	nephew
+die	Nektarine	nectarine
+die	Nichte	niece
+die	Niederlassung	settlement
+die	Not	need, poverty
+die	Olive	olive
+die	Ortschaft	locality
+die	Packung	package or packet
+die	Pantoffel	house slippers
+die	Pastete	meat pie
+die	Personalabteilung	personnel department
+die	Pest	pestilence
+die	Pfadfinder	boy scouts
+die	Pfanne	pan
+die	Pfeffermühle	pepper grinder
+die	Pflaume	plum
+die	Pfote	paws
+die	Pfüzte	puddle
+die	Pistazie	pistachio
+die	Pizza	pizza
+die	Platte	platter, serving dish
+die	Pommesfrites	french fries
+die	Portion	portion
+die	Post	post office
+die	Prägung	imprint, minting, coinage
+die	Praline	chocolate with cream or alcohol
+die	Praxis Praxen	doctor´s practice
+die	Produktionsabteilung	production department
+die	Puppe	doll
+die	Pute	turkey
+die	Pyramide	pyramid
+die	Quittung	bill from car repair, etc
+die	Realität	reality
+die	Rechtsabteilung	legal department
+die	Regel	rules
+die	Reihe	row, line
+die	Reihenfolge	order, sequence
+die	Reinigung	dry cleaners
+die	Reise	trip, journey
+die	Reiseunterlagen	travel documents
+die	Reklamation	complaint, query
+die	Reklame	advertising
+die	Rettung	rescue
+die	Richtung	direction
+die	Robbe	a seal
+die	Rösti	fried grate potatoes, i.e. hash
+die	Routine	routine
+die	Rübe	turnip
+die	Rückflugticket	a round trip ticket
+die	Ruhe	quiet, calm, peace
+die	Rüstung	arms, weapons
+die	Sache	thing, things
+die	Säge	a saw
+die	Sahne	cream
+die	Salbe	salve, ointment
+die	Salbung	anointing
+die	Sandgrube	sand pit
+die	Säuregurke	pickles
+die	Schachtel	small box
+die	Schale	small bowl
+die	Schar	band of people
+die	Schlange	snake, serpent, line of people
+die	Schminke	makeup
+die	Schnecke	snail
+die	Schokolade	chocolate
+die	Scholle	floe
+die	Schorle	spritzer
+die	Schublade	drawer
+die	Schule	school
+die	Schulter	shoulder
+die	Schwelle	threshhold - psych, phys, door threshhold
+die	Schwerathletik	contact sports
+die	Schwester	sister
+die	Serviette	napkin
+die	Siebensachen	belongings
+die	Socke	socks
+die	Sorge	worry
+die	Soße	sauce
+die	Spalte	column
+die	Spielzeugkiste	toybox
+die	Spinne	spider
+die	Sportskanone	sports star
+die	Sprechstundenhilfe	receptionist
+die	Spritze	syringe, shot
+die	Spur	track, trace, sign
+die	Stäbchen	chopsticks
+die	Stange	pole, bar
+die	Startbahn	runway
+die	Landebahn	runway
+die	Station	station, stop
+die	Stimme	voice, part
+die	Stirn	forehead
+die	Strafe	penalty, punishment
+die	Strahlung	radiation
+die	Straßenbahn	tram, streetcar
+die	Streichholzschachtel	matchbox
+die	Sünde	sin
+die	Suppenkelle	soup ladle
+die	Süße	sweets
+die	Süßigkeit	sweets
+die	Tablette	pills, tablets
+die	Tafel	bar of something
+die	Tante	aunt
+die	Tasche	pocket, bag
+die	Tassen	coffee, tea cup
+die	Taucherbrille	diving goggles
+die	Tenne	threshing floor
+die	Theologie	theology
+die	Tiefkühltruhe	refrigerator chest - horizontal, deep freeze
+die	Tonne	barrel
+die	Torte	fruit pie
+die	Träne	tear
+die	Treppe	stairs
+die	Tüte	bag, cone
+die	Überraschung	a surprise
+die	Übersetzung	translation
+die	Übertretung	trespass violation
+die	Umfrage	job Interview
+die	Ungelegenheiten	inconvenience (un-opportunity)
+die	Universität	university
+die	Unsrigen	our people
+die	Unterkunft	accommodation
+die	Unterlage	documents
+die	Untertasse	saucer
+die	Urgroßmutter	grandmother
+die	Verabredung	arrangement, private appointment
+die	Verführung	seduction, temptation
+die	Vergangenheit	past tense, past time
+die	Vermittlung	mediation, intercession
+die	Versammlung	assembly
+die	Versichertenkarte	insurance card
+die	Versicherung	insurance
+die	Versklavung	enslavement
+die	Versorgung	care, provision
+die	Verspätung	delay
+die	Verspottung	mockery
+die	Verstörung	destruction
+die	Verwaltung	administration
+die	Verzeihung	forgiveness
+die	Videothek	video store
+die	Vorschrift	commandment, directive
+die	Vorsicht	caution, care
+die	Vorspeise	appetizer
+die	Vorstellung	idea, picture
+die	Vorwahl	preliminary election
+die	Waffe	weapon
+die	Wahl	choice
+die	Wahrscheinlichkeit	probability, likelihood
+die	Wand	wall
+die	Wange	cheeks
+die	Warnung	warning
+die	Wäsche	laundry
+die	Wäscheleine	clothesline
+die	Wassermelone	watermelon
+die	Weinbergschnecke	snail
+die	Weise	way, manner, fashion
+die	Weisheit	wisdom
+die	Weite	width
+die	Wieder belebungsversuche	rescussitation, CPR
+die	Wiedervereinigung	unification day
+die	Wimper	eyelash
+die	Windmühle	windmill
+die	Windpocken	chickenpox
+die	Witwe	widow
+die	Woche	week
+die	Wohnung	apartment, house
+die	Wolle	wool
+die	Wunde	wound
+die	Würde	dignity
+die	Wurst	sausage
+die	Wurzel	root, square root
+die	Zacke	point, jagged peak
+die	Zahnbürste	toothbrush
+die	Zauberei	wizardry
+die	Zehe	toes
+die	Zitrone	citrus
+die	Zulieferfirma	ancilliary company, supplier
+die	Zunge	tounge
+die	Zuversicht	assurance, confidence
+die	Zwiebeln	onion
